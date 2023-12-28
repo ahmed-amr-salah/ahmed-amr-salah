@@ -3,7 +3,7 @@
   
 + 🔭 I’m currently working on [Clinic Management System](https://github.com/ahmed-amr-salah/) <br>
 
-+ 🌱 I’m currently learning **NodeJs and Ethical Hacking** <br>
++ 🌱 I’m currently learning **Ethical Hacking** <br>
 
 + 📫 How to reach me **aahmedamr221201@aucegypt.edu** <br>
 
