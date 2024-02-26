@@ -1,9 +1,9 @@
 # 💫 About Me:
 + Hi 👋, I'm Ahmed Amr Salah <br>A Senior Computer Engineering student, and a cybersecuirty enthusiast <br>
   
-+ 🔭 I’m currently working on [Clinic Management System](https://github.com/ahmed-amr-salah/) <br>
++ 🔭 I’m currently working on [Deep Learning Powered Code Vulnerability Detection & End-to-End Encrypted Chatting App](https://github.com/ahmed-amr-salah/) <br>
 
-+ 🌱 I’m currently learning **Ethical Hacking** <br>
++ 🌱 I’m currently learning **Ethical Hacking and Deep Learning** <br>
 
 + 📫 How to reach me **aahmedamr221201@aucegypt.edu** <br>
 
